@@ -2,8 +2,7 @@
 <h2>I'm Prince Singh</h2>
 
 <h4 >
-  I like making, breaking, experimenting, developing and learning things about
-  the web.
+  <b>Building the Web, One Line at a Time</b>
 </h4>
 
 <!-- <h2>My GitHub Stats</h2>
