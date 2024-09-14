@@ -5,8 +5,10 @@
   <b>Building the Web, One Line at a Time</b>
 </h4>
 
-<!-- <h2>My GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=prince-singh-05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /> -->
+<h2>My GitHub Stats</h2>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=prince-singh-05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /> -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prince-singh-05&theme=radical)
 
 <h2>Languages</h2>
 
