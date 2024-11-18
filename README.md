@@ -8,7 +8,7 @@
 <h2>My GitHub Stats</h2>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=prince-singh-05&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" /> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prince-Singh-05&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Singh-05&theme=radical)](https://git.io/streak-stats)
 
 <h2>Languages</h2>
 
